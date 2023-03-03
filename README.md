@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coates
-- 👀 I’m interested in Ruby on Rails, Laravel, and AWS
+- 👀 I’m interested in Solidity, Python, Ruby on Rails, Laravel, and AWS
 - 📫 How to reach me: sean.coates at gmail.com
 
 <!---
